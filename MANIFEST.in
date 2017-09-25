@@ -1,0 +1,2 @@
+recursive-include spotify_flask_web_api/templates *
+recursive-include spotify_flask_web_api/static *
